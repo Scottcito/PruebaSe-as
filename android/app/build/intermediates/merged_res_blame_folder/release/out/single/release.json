@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.prueba.app-merged_res-26:/drawable-hdpi_ic_launcher_round.png.flat",
+        "source": "com.prueba.app-main-27:/drawable-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.prueba.app-merged_res-26:/drawable-mdpi_prueba.png.flat",
+        "source": "com.prueba.app-main-27:/drawable-mdpi/prueba.png"
+    },
+    {
+        "merged": "C:\\Users\\Natalia\\.gradle\\daemon\\8.6\\com.prueba.app-merged_res-26:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Natalia\\.gradle\\daemon\\8.6\\com.prueba.app-main-27:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Natalia\\.gradle\\daemon\\8.6\\com.prueba.app-merged_res-26:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Natalia\\.gradle\\daemon\\8.6\\com.prueba.app-main-27:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Natalia\\.gradle\\daemon\\8.6\\com.prueba.app-merged_res-26:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Natalia\\.gradle\\daemon\\8.6\\com.prueba.app-main-27:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.prueba.app-merged_res-26:/drawable-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.prueba.app-main-27:/drawable-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Natalia\\.gradle\\daemon\\8.6\\com.prueba.app-merged_res-26:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Natalia\\.gradle\\daemon\\8.6\\com.prueba.app-main-27:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.prueba.app-merged_res-26:/drawable-xxhdpi_prueba.png.flat",
+        "source": "com.prueba.app-main-27:/drawable-xxhdpi/prueba.png"
+    },
+    {
+        "merged": "com.prueba.app-merged_res-26:/drawable-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.prueba.app-main-27:/drawable-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.prueba.app-merged_res-26:/drawable-xhdpi_prueba.png.flat",
+        "source": "com.prueba.app-main-27:/drawable-xhdpi/prueba.png"
+    },
+    {
+        "merged": "com.prueba.app-merged_res-26:/drawable-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.prueba.app-main-27:/drawable-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.prueba.app-merged_res-26:/drawable-xxxhdpi_prueba.png.flat",
+        "source": "com.prueba.app-main-27:/drawable-xxxhdpi/prueba.png"
+    },
+    {
+        "merged": "com.prueba.app-merged_res-26:/drawable-mdpi_ic_launcher_round.png.flat",
+        "source": "com.prueba.app-main-27:/drawable-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Natalia\\.gradle\\daemon\\8.6\\com.prueba.app-merged_res-26:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Natalia\\.gradle\\daemon\\8.6\\com.prueba.app-main-27:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Natalia\\.gradle\\daemon\\8.6\\com.prueba.app-merged_res-26:\\drawable_rn_edit_text_material.xml.flat",
+        "source": "C:\\Users\\Natalia\\.gradle\\daemon\\8.6\\com.prueba.app-main-27:\\drawable\\rn_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Natalia\\.gradle\\daemon\\8.6\\com.prueba.app-merged_res-26:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Natalia\\.gradle\\daemon\\8.6\\com.prueba.app-main-27:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Natalia\\.gradle\\daemon\\8.6\\com.prueba.app-merged_res-26:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Natalia\\.gradle\\daemon\\8.6\\com.prueba.app-main-27:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Natalia\\.gradle\\daemon\\8.6\\com.prueba.app-merged_res-26:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Natalia\\.gradle\\daemon\\8.6\\com.prueba.app-main-27:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.prueba.app-merged_res-26:/drawable-hdpi_prueba.png.flat",
+        "source": "com.prueba.app-main-27:/drawable-hdpi/prueba.png"
+    },
+    {
+        "merged": "C:\\Users\\Natalia\\.gradle\\daemon\\8.6\\com.prueba.app-merged_res-26:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Natalia\\.gradle\\daemon\\8.6\\com.prueba.app-main-27:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Natalia\\.gradle\\daemon\\8.6\\com.prueba.app-merged_res-26:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Natalia\\.gradle\\daemon\\8.6\\com.prueba.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]
